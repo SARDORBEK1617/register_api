@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "341430459495",
+    "project_id": "registred-api",
+    "storage_bucket": "registred-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:341430459495:android:0afdecf6c0ed75692548c2",
+        "android_client_info": {
+          "package_name": "com.example.registred_api"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "341430459495-a3egbn6k2ahgtui3qr2j5sft4op42cgt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUC2zG5WfHMphDRWCOk28Kr5tpMROhUG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "341430459495-a3egbn6k2ahgtui3qr2j5sft4op42cgt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
